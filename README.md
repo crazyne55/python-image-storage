@@ -9,3 +9,6 @@ What it *does*:
 
 What it *doesn't*:
 - literally anything else
+
+Why this exists:
+- I was playing the video game "Garry's Mod" and wanted to use the community made addon called "wiremod" to put random images into the server I played on. (I used it to put a qr code to rickroll people, I know)
