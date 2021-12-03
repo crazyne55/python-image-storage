@@ -1,6 +1,8 @@
 # python-image-storage
 an ineffective script I made for storing images as text
 
+I honestly have no idea why anyone in their right mind would use this...
+
 # "img_to_str.py" 
 this script was made back in 2017-2018 and was later edited in 2021 (I have no idea when exactly I made or edited the script).
 
